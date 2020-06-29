@@ -36,7 +36,7 @@ This error most commonly occurs when either the login company is improperly ente
 
 **Firewall**
 
-Report Builder uses ports 80 and 443. Ensure that these ports are allowed through your organization's firewall. See also Adobe's Internal IP Addresses for additional firewall exclusions.
+Report Builder uses ports 80 and 443. Ensure that these ports are allowed through your organization's firewall. See also [Adobe's Internal IP Addresses](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) for additional firewall exclusions.
 
 ## Recommendations for optimizing requests {#section_33EF919255BF46CD97105D8ACB43573F}
 
